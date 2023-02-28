@@ -1,5 +1,5 @@
 # My Data Science projects
-In this repositery, there is a collection of projects that I performed to train my skills in Data Science. Some of these projects were realized as part of the online courses that I took with www.dataquest.io, other came from www.kaggle.com and the rest are projects that I came up by myself.
+In this repositery, there is a collection of projects that I performed to train my skills in Data Science. Some of these projects were realized as part of the online courses that I took with www.dataquest.io, other came from www.kaggle.com and the rest are projects that I came up with by myself.
 
 Here is a suggestion of a few projects that can be interesting to look at:
 
